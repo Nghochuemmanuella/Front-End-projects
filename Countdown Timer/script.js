@@ -1,8 +1,16 @@
-const displayTime = document.getElementById("displayTime");
-const errorMessage = document.getElementById("erro-message");
+const timeInput = document.getElementById("seconds");
+const startButton = document.getElementById("btn");
+const countdownDisplay = document.getElementById("countdownDisplay");
+const errorMessage = document.getElementById("errorMessage");
+let countdownDuration;
 
-document.getElementById("btn").addEventListener("click" , function () ) {
-    const time = document.getElementById("seconds").value ;
-    
+startButton.addEventListener("click", startCountdown);
+            functionstartCountdown() 
+                const timeValue = parseInt(timeInput.value);
+ 
 
-}
+
+
+
+
+
