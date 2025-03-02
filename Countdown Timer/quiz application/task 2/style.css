@@ -1,0 +1,70 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    padding-left: 30%;
+}
+.timer{
+    background-color: darkslategray;
+    width: 30%;
+    color: white;
+    margin-left: 30%;
+    border: none;
+    border-radius: 9px;
+    padding: 5px;
+    margin: 5px;
+    
+
+}
+.timer h2{
+    text-align: center;
+}
+.btn{
+    border-radius: 5px;
+    border: none;
+    background-color: dimgray;
+    padding: 8px;
+    margin: 7px;
+    width: 50px;
+    color: white;
+    text-align: center;
+    
+    
+}
+
+#btn{
+   padding-left: 25%;
+}
+
+#button{
+    align-content: center;
+    
+}
+.button1{
+    background-color: rgb(25, 189, 25);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 5px;
+    margin: 7px;
+    width: 60px;
+}
+.button2{
+    background-color: rgb(250, 171, 1);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 5px;
+    margin: 7px;
+    width: 60px;
+    cursor: pointer;
+}
+.button3{
+    background-color: rgb(250, 78, 10);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 5px;
+    margin: 7px;
+    width: 60px;
+    cursor: pointer;
+}
